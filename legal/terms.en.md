@@ -9,15 +9,17 @@ permalink: /legal/terms.en/
 
 Last updated: June 8, 2026
 
-These Terms of Service (the "Terms") govern your use of the mobile application **Memotify** (the "App") provided by the developer ("we", "us", or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms.
+These Terms of Service (the "Terms") govern your use of the mobile application **Memotify** (the "App") provided by the developer (the "Developer", "I", or "me"). By downloading, installing, or using the App, you agree to be bound by these Terms.
+
+The Developer is an independent individual, not a corporation. The App is provided and maintained by a sole developer.
 
 ## 1. License
 
-We grant you a personal, non-transferable, non-exclusive, revocable license to use the App for non-commercial purposes. You may not reverse-engineer, modify, redistribute, or resell the App.
+The Developer grants you a personal, non-transferable, non-exclusive, revocable license to use the App for non-commercial purposes. You may not reverse-engineer, modify, redistribute, or resell the App.
 
 ## 2. Account
 
-No account registration with us is required to use the basic features of the App. Use of certain paid features requires a purchase through your Apple ID or Google account.
+No account registration with the Developer is required to use the basic features of the App. Use of certain paid features requires a purchase through your Apple ID or Google account.
 
 ## 3. In-App Purchases (Memotify Pro)
 
@@ -50,14 +52,14 @@ Previous purchases can be restored by tapping "Restore purchases" in the App, or
 
 ### 3.5 Refunds
 
-Refunds follow the policies of the App Store and Google Play. We do not process refunds directly. Please contact the store:
+Refunds follow the policies of the App Store and Google Play. The Developer does not process refunds directly. Please contact the store:
 
 - iOS: [https://reportaproblem.apple.com](https://reportaproblem.apple.com)
 - Android: [https://support.google.com/googleplay](https://support.google.com/googleplay)
 
 ## 4. User Content
 
-Bookmarks and other data you save in the App are stored only on your device and are not transmitted to our servers. You retain all rights in such data, and we do not access or use it.
+Bookmarks and other data you save in the App are stored only on your device and are not transmitted to any server operated by the Developer (in fact, the Developer operates no server at all). You retain all rights in such data, and the Developer does not access or use it.
 
 ## 5. Prohibited Conduct
 
@@ -69,19 +71,21 @@ You agree not to:
 
 ## 6. Disclaimer
 
-The App is provided "AS IS" without warranties of any kind. We do not warrant that the App will be error-free or uninterrupted, or that it will meet your particular needs. To the maximum extent permitted by law, we are not liable for any damages arising from your use of the App.
+The App is provided "AS IS" without warranties of any kind. The Developer does not warrant that the App will be error-free or uninterrupted, or that it will meet your particular needs. To the maximum extent permitted by law, the Developer is not liable for any damages arising from your use of the App.
+
+The App is built and maintained by an individual, and the available support capacity is correspondingly limited. Your understanding is appreciated.
 
 ## 7. Changes to or Termination of Service
 
-We may modify or discontinue the App at any time without prior notice. If we discontinue a subscription service mid-term, we will consider appropriate remedies (e.g., prorated refund) for the remaining period.
+The Developer may modify or discontinue the App at any time without prior notice. If a subscription service is discontinued mid-term, the Developer will consider appropriate remedies (e.g., prorated refund) for the remaining period.
 
 ## 8. Changes to These Terms
 
-We may revise these Terms from time to time. We will notify you of material changes through the App or store listing. Continued use of the App after such changes constitutes acceptance of the revised Terms.
+The Developer may revise these Terms from time to time. You will be notified of material changes through the App or store listing. Continued use of the App after such changes constitutes acceptance of the revised Terms.
 
 ## 9. Governing Law
 
-These Terms are governed by the laws of Japan. Any disputes arising out of or relating to these Terms or the App will be subject to the exclusive jurisdiction of the courts in Japan having jurisdiction over the developer's location.
+These Terms are governed by the laws of Japan. Any disputes arising out of or relating to these Terms or the App will be subject to the exclusive jurisdiction of the courts in Japan having jurisdiction over the Developer's location.
 
 ## 10. Contact
 

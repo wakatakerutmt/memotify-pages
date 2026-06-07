@@ -9,16 +9,18 @@ permalink: /legal/privacy.en/
 
 Last updated: June 8, 2026
 
-This policy describes how personal information is handled in the mobile application **Memotify** (the "App") provided by the developer ("we", "us", or "our").
+This policy describes how personal information is handled in the mobile application **Memotify** (the "App") provided by the developer (the "Developer", "I", or "me").
+
+The Developer is an independent individual, not a corporation. The App is provided and maintained by a sole developer.
 
 ## TL;DR
 
 - The App is **local-first**: your bookmarks and other content never leave your device.
-- We operate **no servers** of our own.
+- The Developer operates **no servers**.
 - The App uses **no analytics, advertising SDKs, or tracking IDs**.
 - Only in-app purchase state is processed through the platform store (Apple / Google) and the purchase management service [RevenueCat](https://www.revenuecat.com).
 
-## 1. Information We Do NOT Collect
+## 1. Information the Developer Does NOT Collect
 
 The App does **not** collect any of the following:
 
@@ -30,7 +32,7 @@ The App does **not** collect any of the following:
 
 ## 2. Information Stored Locally on Your Device
 
-For the App to function, the following information is stored **locally on your device** and never transmitted to our servers:
+For the App to function, the following information is stored **locally on your device** and is never transmitted to any server operated by the Developer (in fact, the Developer operates no server at all):
 
 - Saved bookmarks (URL, title, saved time, read status, thumbnail, etc.)
 - Notification rule settings
@@ -43,7 +45,7 @@ This data is removed when you uninstall the App or clear its data through your O
 
 ### 3.1 In-App Purchases (Apple App Store / Google Play)
 
-When you purchase Memotify Pro, payment information is handled directly by Apple App Store or Google Play. We never receive your credit card number or any payment details. For more information, see:
+When you purchase Memotify Pro, payment information is handled directly by Apple App Store or Google Play. The Developer never receives your credit card number or any payment details. For more information, see:
 
 - [Apple's Privacy Policy](https://www.apple.com/legal/privacy/)
 - [Google's Privacy Policy](https://policies.google.com/privacy)
@@ -52,7 +54,7 @@ When you purchase Memotify Pro, payment information is handled directly by Apple
 
 The App uses [RevenueCat](https://www.revenuecat.com) to manage purchase state (Pro plan status, plan type, expiry, etc.). The following data is sent to RevenueCat:
 
-- An anonymous user identifier (auto-generated per device; cannot identify a person on our end)
+- An anonymous user identifier (auto-generated per device; the Developer cannot identify an individual from it)
 - Purchase receipts (Apple / Google receipts)
 - Platform metadata (OS version, device type, etc.)
 
@@ -60,7 +62,7 @@ RevenueCat retains this information to verify purchases and to restore purchases
 
 ## 4. Notifications
 
-The App delivers local notifications based on rules you configure. Scheduling and delivery use the OS's local notification facilities and never involve our servers.
+The App delivers local notifications based on rules you configure. Scheduling and delivery use the OS's local notification facilities and never involve any server operated by the Developer.
 
 ## 5. App Tracking Transparency (ATT)
 
@@ -68,7 +70,7 @@ The App does **not** track users across other apps or websites. It does not use 
 
 ## 6. Children's Privacy
 
-The App is not directed to children under 13. If we learn that a child under 13 is using the App, we note that no data is collected by us; all data remains only on the device.
+The App is not directed to children under 13. If the Developer learns that a child under 13 is using the App, note that no data is collected; all data remains only on the device.
 
 ## 7. Data Security
 
@@ -76,21 +78,23 @@ Local data is protected by the standard sandbox mechanisms of each OS. While you
 
 ## 8. Disclosure to Third Parties
 
-We do **not** disclose or sell your data to third parties. We will only disclose information if required by law, and only to the minimum extent necessary.
+The Developer does **not** disclose or sell your data to third parties. The Developer will only disclose information if required by law, and only to the minimum extent necessary.
 
 ## 9. Your Rights
 
-Because we do not hold your personal data on our servers, requests for access, correction, or deletion can be acted on directly by you within the App (e.g., deleting bookmarks, uninstalling the App).
+Because the Developer does not hold your personal data on any server, requests for access, correction, or deletion can be acted on directly by you within the App (e.g., deleting bookmarks, uninstalling the App).
 
 ## 10. Changes to This Policy
 
-We may update this policy from time to time. We will notify you of material changes through the App or store listing.
+The Developer may update this policy from time to time. You will be notified of material changes through the App or store listing.
 
 ## 11. Contact
 
 For questions about this policy or how the App handles personal information, please contact:
 
 - Email: [memotify.app@gmail.com](mailto:memotify.app@gmail.com)
+
+Please understand that, because the App is operated by a single individual, responses may take some time.
 
 ---
 
