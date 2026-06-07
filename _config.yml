@@ -1,0 +1,31 @@
+# Jekyll configuration for the Memotify legal site.
+#
+# This repo (memotify-pages) is the public host for Memotify's legal pages.
+# The parent app repo (memotify) is private and links here for Terms of
+# Service and Privacy Policy from the in-app Paywall.
+#
+# Published URL: https://wakatakerutmt.github.io/memotify-pages/
+
+title: Memotify
+description: Local-first bookmark app with rich notifications.
+url: "https://wakatakerutmt.github.io"
+baseurl: "/memotify-pages"
+
+# GitHub Pages-supported minimal theme.
+theme: minima
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+
+defaults:
+  - scope:
+      path: "legal"
+    values:
+      layout: legal
+
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
