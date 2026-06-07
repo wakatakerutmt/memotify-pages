@@ -92,7 +92,7 @@ The Developer may update this policy from time to time. You will be notified of 
 
 For questions about this policy or how the App handles personal information, please contact:
 
-- Email: [memotify.app@gmail.com](mailto:memotify.app@gmail.com)
+- Email: [takuya.iidash@gmail.com](mailto:takuya.iidash@gmail.com)
 
 Please understand that, because the App is operated by a single individual, responses may take some time.
 

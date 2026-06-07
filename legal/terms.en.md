@@ -91,7 +91,7 @@ These Terms are governed by the laws of Japan. Any disputes arising out of or re
 
 For questions about these Terms or the App, please contact:
 
-- Email: [memotify.app@gmail.com](mailto:memotify.app@gmail.com)
+- Email: [takuya.iidash@gmail.com](mailto:takuya.iidash@gmail.com)
 
 ---
 

@@ -92,7 +92,7 @@ RevenueCat は購入の検証および再ダウンロード時の購入復元の
 
 本ポリシーまたは本アプリの個人情報取扱いについてのご質問は、以下までご連絡ください：
 
-- メール：[memotify.app@gmail.com](mailto:memotify.app@gmail.com)
+- メール：[takuya.iidash@gmail.com](mailto:takuya.iidash@gmail.com)
 
 なお、開発者は個人で本アプリを開発・運営しているため、お返事までお時間をいただく場合があります。あらかじめご了承ください。
 

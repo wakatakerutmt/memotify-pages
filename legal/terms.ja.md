@@ -91,7 +91,7 @@ permalink: /legal/terms.ja/
 
 本規約または本アプリに関するお問い合わせは、以下までご連絡ください：
 
-- メール：[memotify.app@gmail.com](mailto:memotify.app@gmail.com)
+- メール：[takuya.iidash@gmail.com](mailto:takuya.iidash@gmail.com)
 
 ---
 
